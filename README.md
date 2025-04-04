@@ -1,1 +1,1 @@
-# جواب های تمارین دوره sc50 هاروارد
+# Answers to Harvard sc50 course exercises
